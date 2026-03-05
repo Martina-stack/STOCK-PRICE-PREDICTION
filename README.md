@@ -8,8 +8,8 @@ This project predicts the stock prices of a company using an LSTM (Long Short-Te
 - Visualizes predicted vs actual prices
 
 ## Files
+- `checkprice` : UI and interface of the application
 - `stock_price_lstm_model.keras` : Trained LSTM model
-- `notebook.ipynb` : Colab notebook with data preprocessing, training, and prediction
 - `README.md` : Project description
 
 ## Technologies Used
